@@ -2,6 +2,7 @@
 
 import gulp from 'gulp';
 import babel from 'gulp-babel';
+import less from 'gulp-less';
 import autoprefixer from 'gulp-autoprefixer';
 import sourcemaps from 'gulp-sourcemaps';
 
